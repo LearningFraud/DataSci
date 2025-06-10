@@ -36,3 +36,12 @@ FRG = West Germany
 1. A lot of data is collected every Olympic Games
 2. Nil
 3. Red Light + Speed Camera Output
+
+## Filtering Sorting and Grouping
+
+### Task 1 Questions
+1. The filters create new separate deataframes importing values which meet a certain boolean condition from the original dataframe
+2. ![Females: 5, Older Athletes: 5](image-1.png)
+
+### Task 2
+![Output](image-2.png)
