@@ -45,3 +45,6 @@ FRG = West Germany
 
 ### Task 2
 ![Output](image-2.png)
+
+### Task 3
+![Output](Screenshot 2025-06-13 131744.png)
